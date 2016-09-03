@@ -1,4 +1,4 @@
-<img src='prog.png'>
+<img src='prog.PNG'>
 
 
 Программа для резервного копирования прогресса на серверах "Царь горы" (king of the hill by sa-matra) в игре Арма 3.
