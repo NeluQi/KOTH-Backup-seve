@@ -1,9 +1,0 @@
-D:\Project_Work\A_Project Developer\MultiUser Steam\MultiUser Steam\bin\Debug\MultiUser Steam.exe.config
-D:\Project_Work\A_Project Developer\MultiUser Steam\MultiUser Steam\bin\Debug\MultiUser Steam.exe
-D:\Project_Work\A_Project Developer\MultiUser Steam\MultiUser Steam\bin\Debug\MultiUser Steam.pdb
-D:\Project_Work\A_Project Developer\MultiUser Steam\MultiUser Steam\obj\Debug\MultiUser Steam.csprojResolveAssemblyReference.cache
-D:\Project_Work\A_Project Developer\MultiUser Steam\MultiUser Steam\obj\Debug\MultiUser_Steam.Form1.resources
-D:\Project_Work\A_Project Developer\MultiUser Steam\MultiUser Steam\obj\Debug\MultiUser_Steam.Properties.Resources.resources
-D:\Project_Work\A_Project Developer\MultiUser Steam\MultiUser Steam\obj\Debug\MultiUser Steam.csproj.GenerateResource.Cache
-D:\Project_Work\A_Project Developer\MultiUser Steam\MultiUser Steam\obj\Debug\MultiUser Steam.exe
-D:\Project_Work\A_Project Developer\MultiUser Steam\MultiUser Steam\obj\Debug\MultiUser Steam.pdb

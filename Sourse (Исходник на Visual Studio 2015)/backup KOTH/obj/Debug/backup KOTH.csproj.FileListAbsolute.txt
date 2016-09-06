@@ -1,0 +1,9 @@
+D:\Project_Work\A_Project Developer\backup KOTH\backup KOTH\bin\Debug\backup KOTH.exe.config
+D:\Project_Work\A_Project Developer\backup KOTH\backup KOTH\bin\Debug\backup KOTH.exe
+D:\Project_Work\A_Project Developer\backup KOTH\backup KOTH\bin\Debug\backup KOTH.pdb
+D:\Project_Work\A_Project Developer\backup KOTH\backup KOTH\obj\Debug\backup KOTH.csprojResolveAssemblyReference.cache
+D:\Project_Work\A_Project Developer\backup KOTH\backup KOTH\obj\Debug\backup_KOTH.Form1.resources
+D:\Project_Work\A_Project Developer\backup KOTH\backup KOTH\obj\Debug\backup_KOTH.Properties.Resources.resources
+D:\Project_Work\A_Project Developer\backup KOTH\backup KOTH\obj\Debug\backup KOTH.csproj.GenerateResource.Cache
+D:\Project_Work\A_Project Developer\backup KOTH\backup KOTH\obj\Debug\backup KOTH.exe
+D:\Project_Work\A_Project Developer\backup KOTH\backup KOTH\obj\Debug\backup KOTH.pdb

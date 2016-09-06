@@ -1,0 +1,81 @@
+version=1;
+class CustomAttributes
+{
+	class Attribute0
+	{
+		property="RecompileFunctions";
+		expression="true";
+		class Value
+		{
+			class data
+			{
+				class type
+				{
+					type[]=
+					{
+						"BOOL"
+					};
+				};
+				value=0;
+			};
+		};
+	};
+	class Attribute1
+	{
+		property="StartMap";
+		expression="true";
+		class Value
+		{
+			class data
+			{
+				class type
+				{
+					type[]=
+					{
+						"BOOL"
+					};
+				};
+				value=0;
+			};
+		};
+	};
+	class Attribute2
+	{
+		property="StartRandom";
+		expression="true";
+		class Value
+		{
+			class data
+			{
+				class type
+				{
+					type[]=
+					{
+						"BOOL"
+					};
+				};
+				value=1;
+			};
+		};
+	};
+	class Attribute3
+	{
+		property="EnableEnvironment";
+		expression="enableEnvironment _value;";
+		class Value
+		{
+			class data
+			{
+				class type
+				{
+					type[]=
+					{
+						"BOOL"
+					};
+				};
+				value=0;
+			};
+		};
+	};
+	nAttributes=4;
+};
